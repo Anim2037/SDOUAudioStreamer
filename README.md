@@ -1,17 +1,6 @@
-# DOUAudioStreamer
+# SDOUAudioStreamer
 
-DOUAudioStreamer is a Core Audio based streaming audio player for iOS/Mac.
+基于DOUAudioStreamer 实现音频边播放边缓存，修复短音频播放问题。感谢豆瓣的开源贡献。
 
-## How to Use
-
-[Download](https://github.com/douban/DOUAudioStreamer/archive/master.zip) DOUAudioStreamer, drag everything inside src into your Xcode project and you are ready to go.
-
-## Examples
-
-A working demonstration is included inside [example](https://github.com/douban/DOUAudioStreamer/tree/master/example) folder.
-
-The documentation for DOUAudioStreamer is coming.
-
-## License
-
-Use and distribution of licensed under the BSD license. See the [LICENSE](https://github.com/douban/DOUAudioStreamer/blob/master/LICENSE) file for full text.
+DOUAudioStreamer已经基于CoreAudio实现了流媒体播放，具体见：
+[DOUAudioStreamer](https://github.com/douban/DOUAudioStreamer/archive/master.zip)
